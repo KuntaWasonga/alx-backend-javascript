@@ -1,0 +1,1 @@
+This directory contains files from the "0x01. ES6_promise" ALX project.
